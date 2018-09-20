@@ -1,2 +1,5 @@
 # Guildspeak Branding
-Our graphics assets released under Proprietary License. See `LICENSE.md`
+Our graphics assets released under Proprietary License.
+
+# License
+See in LICENSE.md
